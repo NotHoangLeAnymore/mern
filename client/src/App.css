@@ -29,6 +29,15 @@
   color: white;
 }
 
+.form-control {
+  /* margin-top: 10px; */
+  margin-bottom: 10px;
+}
+
+.btn.btn-info.btn-sm {
+  margin-left: 10px;
+}
+
 .spinner-container {
   position: absolute;
   top: 50%;
